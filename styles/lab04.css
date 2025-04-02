@@ -1,0 +1,78 @@
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+h2 {
+    color: rgb(0,128,128);
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+* { 
+    font-family: calibri, sans-serif; 
+    color: #2f4F4F; 
+}     
+
+aside, footer { 
+    font-style: italic;
+}  
+
+h1, h2, h3 {
+    font-family: arial, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+#introduction {
+    text-align: center;
+}
+
+#images {
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding:0.2em 0.6em;
+    border: 4px solid #ccc;
+}  
+
+.right {
+    text-align: right;
+}
+
+#images {
+    text-align : center;
+}
+
+.special {
+    color: darkorange;
+    font-weight:bold;
+}  
+
+ol ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type : lower-roman
+}
+
+aside:hover {
+    display: none;
+    background-color: lightblue;
+    border: 1px solid darkblue;
+}
+
+.red {
+    color: red;
+}
+
+nav a:hover {
+    background-color: lightblue;
+    border: 1px solid darkblue;
+}
